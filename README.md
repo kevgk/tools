@@ -17,10 +17,15 @@
 
 # Gradients
 - meshgradient.com
+- gradients.party
+- cssgradient.io
 
 # Illustrations
 - undraw.co
 - scribbbles.design
+- error404.fun
+- opendoodles.com
+- illustrationkit.com
 
 # Fonts
 - fontjoy.com
@@ -34,13 +39,16 @@
 
 # Image Upscaling
 - letsenhance.io
+- icons8.com/upscaler
 
 # Background Removal
 - picwish.com
+- icons8.com/bgremover
 
 # Graphic Apps
 - figma.com
 - app.diagrams.net
+- excalidraw.com
 
 # Cheatsheets
 - www.commands.dev
@@ -48,3 +56,7 @@
 
 # Terminal
 - Warp
+
+# Notes
+- Notion
+- obsidian.md
