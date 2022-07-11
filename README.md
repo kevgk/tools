@@ -32,6 +32,7 @@
 - colorhunt.co
 - design-seeds.com
 - http://khroma.co
+- fontshare.com
 
 # Images
 - thispersondoesnotexist.com
