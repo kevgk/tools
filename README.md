@@ -6,6 +6,33 @@
 - designvault.io
 - behance.net
 - siiimple.com
+- https://screenlane.com/
+- lapa.ninja
+- maxibestof.one
+- pagecollective.com
+- admiretheweb.com
+- godly.website
+- flowing.page
+- pafolios.com
+- darkmodedesign.com
+- saaslandingpage.com
+- klikkentheke.com
+- uxui.monster
+- grid.zajno.com
+- visualjournal.it
+- scrnshts.club
+- creative-portfolios.com
+- webdesignmuseum.org
+- uigarage.net
+- pageflows.com
+- thefwa.com
+- interfaceingame.com (Game UIs)
+
+# Text
+- goodemailcopy.com
+
+# UX
+- uxmovement.com
 
 # Colors
 - mycolor.space
@@ -45,6 +72,7 @@
 - www.cufonfonts.com
 - https://www.fontspace.com/
 - https://fontbundles.net/free-fonts
+- fontsinthewild.com
 
 # Icons
 - https://icons8.com/icons
