@@ -46,6 +46,7 @@
 - colorhunt.co
 - design-seeds.com
 - http://khroma.co
+- colors.tools
 
 # Gradients
 - meshgradient.com
