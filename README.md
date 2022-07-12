@@ -94,6 +94,7 @@
 - burst.shopify.com
 - pexels.com
 - freepik.com
+- https://picsum.photos/
 
 # Mockups
 - mockupworld.co
