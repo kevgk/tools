@@ -30,6 +30,7 @@
 
 # Text
 - goodemailcopy.com
+- https://loremipsum.io/ultimate-list-of-lorem-ipsum-generators/
 
 # UX
 - uxmovement.com
@@ -75,6 +76,8 @@
 - https://www.fontspace.com/
 - https://fontbundles.net/free-fonts
 - fontsinthewild.com
+- fontinlogo.com
+- fontpair.co
 
 # Icons
 - https://icons8.com/icons
