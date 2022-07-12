@@ -66,6 +66,7 @@
 - https://www.uistore.design/categories/illustrations/
 
 # Fonts
+- type-scale.com
 - fontjoy.com
 - fontshare.com
 - https://fonts.google.com/
